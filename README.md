@@ -1,6 +1,6 @@
 # DENO-REST-API
 
-## A Simple REST API using DENO 1.0 with TypeScript & Oak Framework
+## A Simple REST API using DENO 1.0, TypeScript & Oak Framework
 
 ### 🚀 Running the App
 
